@@ -1,0 +1,607 @@
+body {
+    padding-left: 8rem;
+    padding-right: 8rem;
+}
+
+.OP {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.SU {
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.S {
+    border-radius: 5px;
+    background-color: rgb(27, 248, 27);
+    color: white;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav ul li {
+    list-style: none;
+}
+
+nav ul li a {
+    font-size: 16px;
+    color: rgb(29, 26, 26);
+    text-decoration: none;
+    padding: 0 15px;
+}
+
+.CA .EX {
+    padding-right: 15px;
+}
+
+.CA .SH {
+    padding-right: 15px;
+}
+
+.CAA button {
+    height: 2rem;
+    width: 6rem;
+    background-color: rgb(27, 248, 27);
+    border-radius: 15px;
+    border: none;
+    color: white;
+}
+
+.CAA button i {
+    padding-right: 5px;
+}
+
+.SP {
+    padding-top: 6rem;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.SUU {
+    font-size: 40px;
+    font-weight: 900;
+    word-spacing: 2px;
+}
+
+.FL {
+    padding-top: 8px;
+}
+
+.KI {
+    color: rgb(27, 248, 27);
+}
+
+.MA {
+    padding-top: 15px;
+    word-spacing: 5px;
+    font-size: 20px;
+}
+
+.MMA {
+    padding-top: 5px;
+}
+
+.OW {
+    padding-top: 1.5rem;
+}
+
+.WA {
+    padding-left: 1rem;
+}
+
+.OW .OR button {
+
+    height: 2rem;
+    width: 13rem;
+    background-color: rgb(27, 248, 27);
+    border-radius: 15px;
+    border: none;
+    color: white;
+    place-content: center;
+}
+
+.OW .WA button {
+
+    height: 2rem;
+    width: 13rem;
+    background-color: antiquewhite;
+    border-radius: 15px;
+    border: none;
+    color: black;
+    place-content: center;
+}
+
+.OW .WA button i {
+    padding-left: 10px;
+}
+
+.II img {
+    object-fit: fill;
+    height: 19rem;
+    width: fit-content;
+    border: 5px solid green;
+}
+
+.MMAK {
+    display: grid;
+    grid-template-columns: 0.50fr 1fr;
+}
+
+.IC {
+    height: fit-content;
+    width: 12rem;
+    border-radius: 8px;
+    display: grid;
+    grid-template-columns: 0.50fr 1fr;
+    font-size: 10px;
+    background-color: white;
+    box-shadow: 4px 4px 4px 2px grey;
+}
+
+.CCA {
+    height: fit-content;
+    width: fit-content;
+    border-radius: 8px;
+    display: grid;
+    grid-template-columns: 0.50fr 1fr;
+    font-size: 10px;
+    background-color: white;
+    box-shadow: 4px 4px 4px 2px grey;
+}
+
+
+.ICC {
+    padding-left: 5px;
+}
+
+.ICC img {
+    object-fit: contain;
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+}
+
+.CCA {
+    margin-left: 2rem;
+}
+
+.MAK {
+    padding-right: 2rem;
+}
+.MA {
+    font-size:15px ;
+}
+.ST {
+    padding-top: 5px;
+}
+.YE {
+    color: rgb(253, 253, 39);
+    
+}
+.ER {
+   padding-top: 4px; 
+}
+.DO {
+    color: rgb(245, 59, 59);
+}
+
+.CUST{
+    display: flex;
+    justify-content: center;
+    font-size: 12px;
+    color: rgb(245, 59, 59);
+    font-weight: bolder;
+    padding-top: 5rem;
+}
+.POP {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: bolder;
+    padding-top: 0.80rem;
+    padding-bottom: 1rem;
+}
+.FO {
+    display: flex;
+    justify-content: space-between;
+}
+.SFO {
+    height: fit-content;
+    width: 10rem;
+    background-color: white;
+    box-shadow: 2px 2px 2px 2px rgb(228, 225, 225);
+    border-radius: 7px;
+
+}
+.LFO {
+    height: fit-content;
+    width: 10rem;
+    background-color: white;
+    box-shadow: 2px 2px 2px 2px rgb(228, 225, 225);
+    border-radius: 7px;
+
+}
+.CIR {
+    display: grid;
+    place-content: center;
+    padding-top: 5px;
+}
+.CFI {
+   display: grid;
+   place-content: center;
+   height: 3rem ;
+   width: 3rem;
+   border-radius: 50%;
+   background-color: green;
+}
+.CFI img {
+    height: 2rem;
+    width: 2rem;
+    border-radius: 50%;
+}
+.ABS {
+  display: grid;
+  place-content: center;
+  font-weight: bolder;
+  padding-top: 15px;
+}
+.BRA {
+    display: grid;
+    place-content: center;
+    font-size: 13px;
+    color: rgb(134, 132, 132);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.SPEC {
+    padding-top: 4rem;
+    color: rgb(245, 59, 59);
+    font-size: 13px;
+    font-weight: bolder;
+}
+.BES {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.BD {
+    font-size: 30px;
+    font-weight: bolder;
+    padding-top: 0.80rem;
+}
+
+
+
+.TT {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 2rem;
+}
+.TY {
+    height: fit-content;
+    width: 15rem;
+    box-shadow: 2px 2px 4px 4px gainsboro;
+    border-radius: 15px;
+}
+.LOV {
+    display: flex;
+    justify-content: end;
+}
+.LLO {
+    height: 25px;
+    width: 25px;
+    display: grid;
+    place-content: center;
+    background-color: green;
+    font-size: 15px;
+    color: white;
+    border-top-right-radius: 10px ;
+    border-bottom-left-radius: 10px;
+}
+.TYI {
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+}
+.TYI img {
+    height: 5rem;
+    width: 5rem;
+    border-radius: 50%;
+}
+.TTW {
+    font-weight: bolder;
+  padding-top: 15px;
+  padding-left: 10px;
+  font-size: 18px;
+}
+.DESC {
+    font-size: 13px;
+    color: rgb(134, 132, 132);
+    padding-top: 5px;
+    padding-left: 10px;
+}
+.TD {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+}
+.TEN {
+   font-size: 15px; 
+   font-weight: bolder;
+   padding-top: 5px;
+}
+.DOQ {
+    color: rgb(245, 59, 59);
+    font-size: 12px;
+}
+.TST {
+  font-size: 13px;
+  font-weight: 800;
+  color: rgb(134, 132, 132);
+}
+.TST i {
+    color: rgb(247, 247, 41);
+}
+
+.TEE {
+    display: flex;
+    justify-content: space-between;
+  padding-top: 8rem;
+}
+
+
+.HII img {
+    height: 14rem;
+    width: 22rem;
+    margin-left: 2rem;
+    border: 5px solid green;
+    
+}
+
+.WAH {
+ flex: 2;
+ margin-left: 6rem;
+}
+
+.TTEST {
+    color: rgb(245, 59, 59);
+    font-size: 13px;
+    font-weight: bolder;
+}
+
+.OUC {
+    font-size: 30px;
+    font-weight: bolder;
+    padding-top: 2rem;
+}
+
+.IHAD {
+    font-size: 15px;
+    color: rgb(134, 132, 132);
+    padding-top: 1rem;
+    word-spacing: 2px;
+    
+}
+
+.IND {
+    padding-top: 1rem;
+    display: grid;
+    grid-template-columns: 0.23fr 1fr ;
+}
+.IIND {
+    position: relative;
+}
+
+.IIND img {
+    height: 2rem;
+    width: 2rem;
+    border-radius: 50%;
+    position: absolute;
+    
+    
+}
+#item1 {
+    top: 0px;
+    left: 0px;
+    border: 2px solid green;
+}
+#item2 {
+    top: 0px;
+    left: 25px;
+    border: 2px solid wheat;
+}
+#item3 {
+    top: 0px;
+    left: 50px;
+    border: 2px solid wheat;
+}
+
+.INCU {
+   font-weight: bolder;
+   font-size: 15px;
+}
+.IFN {
+    font-size: 15px ;
+
+}
+.IFN i {
+    color: rgb(247, 247, 65);
+}
+
+.BIN {
+    font-size: 10px;
+    color: rgb(134, 132, 132);
+}
+
+
+.V {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-top: 5rem;
+}
+
+.VVOUR {
+    color: rgb(245, 59, 59);
+    font-size: 13px;
+    font-weight: bolder;
+}
+
+.VCU {
+    font-size: 30px;
+    font-weight: bolder;
+    padding-top: 1.5rem;
+}
+.VB {
+    padding-top: 10px;
+}
+
+.VVB button {
+    height: 2rem;
+    width: 5rem;
+    border-radius: 15px;
+    border: none;
+    background-color: rgb(21, 243, 21);
+    color: white;
+}
+
+.VBO {
+    display: grid;
+     grid-template-columns: 1fr 1fr ;
+}
+
+.VBOX {
+    height: fit-content;
+    width: 10rem;
+    box-shadow: 2px 2px 2px 2px grey;
+    margin-bottom: 1.5rem;
+    border-radius: 10px;
+}
+
+.VIT {
+    display: grid;
+    place-content: center;
+    padding-top: 15px;
+    font-size: 30px;
+    color: green;
+}
+
+.VCA {
+    color: green;
+    font-size: 15px;
+    display: grid;
+    place-content: center;
+    padding-top: 10px;
+}
+
+.VW {
+    font-size: 10px;
+    color: rgb(134, 132, 132);
+    padding-top: 7px;
+    padding-bottom: 25px;
+    display: grid;
+    place-content: center;
+    
+}
+
+.CETTA {
+    display: grid;
+    place-content: center;
+    color: rgb(134, 132, 132);
+    font-size: 10px;
+    padding-top: 10px;
+}
+.CETT {
+    display: grid;
+    place-content: center;
+    color: rgb(134, 132, 132);
+    font-size: 10px;
+}
+.CETTB {
+    display: grid;
+    place-content: center;
+    color: rgb(134, 132, 132);
+    font-size: 10px;
+    padding-bottom: 10px;
+}
+
+.VBOXA {
+    height: fit-content;
+    width: 10rem;
+    box-shadow: 2px 2px 2px 2px grey;
+    margin-bottom: 1.5rem;
+    border-radius: 10px;
+}
+
+.VBOXB {
+    height: fit-content;
+    width: 10rem;
+    box-shadow: 2px 2px 2px 2px grey;
+    border-radius: 10px;
+}
+
+.VBOXC {
+    height: fit-content;
+    width: 10rem;
+    box-shadow: 2px 2px 2px 2px grey;
+    border-radius: 10px;
+}
+
+
+
+.SUM {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    padding-top: 5rem;
+}
+
+.EVQ {
+    font-size: 15px;
+    color: rgb(134, 132, 132);
+    padding-top: 10PX;
+    
+}
+
+.ICNS {
+    padding-top: 5rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.FB {
+    padding-right: 5px;
+}
+.ICO {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.FB i {
+    height: 2rem;
+    width: 2rem;
+    border-radius: 50%;
+    background-color: rgb(16, 243, 16);
+    display: grid;
+    place-content: center;
+}
+
+.IG {
+    font-size: 20px;
+    color: rgb(134, 132, 132);
+}
+
+.COPY {
+    font-size: 15px;
+    color: rgb(134, 132, 132);
+}
+
+
+
+
